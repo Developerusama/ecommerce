@@ -1,0 +1,352 @@
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+ .navbar li {
+  float: left;
+}
+ .navbar li a {
+  display: block;
+  color: #898989;
+  text-align: center;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+ .navbar li a:hover {
+  background-color: #111;
+  color: white;
+}
+
+.active {
+  background-color: #04AA6D;
+  position: absolute;
+  left: 1200px;
+  color: white;
+}
+
+
+.r2{
+   position: absolute;
+   left: 1080px;
+}
+.r1{
+   position: absolute;
+   left: 1000px;
+}
+#men1{
+     position: absolute;
+    left: 726px
+}
+
+#men2{
+    position: absolute;
+    left: 796px;
+}
+
+#men3{
+        position: absolute;
+    left: 883px;
+}
+
+#men4{
+        position: absolute;
+    left: 980px;
+}
+
+#men5{
+        position: absolute;
+    left: 1081px;
+}
+
+.searchbar{
+
+         position: absolute;
+    top: 79px;
+    left: 1234px;
+}
+
+.book ul{
+  list-style-type: none;
+}
+
+
+.book li{
+  float: left;
+  
+}
+ .book a{
+  text-decoration: none;
+  color: black;
+  font-family: Arial;
+  position: absolute;
+  top: 80px;
+  left: 100px;
+
+ }
+
+
+
+.slider img{
+    position: absolute;
+    top: 131px;
+    width: 99%;
+}
+
+
+.ti{ 
+    position: absolute;
+    top: 235px;
+    left: 627px;
+    font-size: 24px;
+    color: white;
+    font-family: arial;
+ }
+
+ .ti2{
+    position: absolute;
+    top: 31px;
+    left: 129px;
+    font-size: 49px;
+    font-weight: lighter;
+ }
+
+ .ti3{
+       position: absolute;
+    top: 341px;
+    left: 569px;
+    font-size:29px;
+    font-family: arial;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: lighter;
+ }
+
+ .me{
+      position: absolute;
+    top: 550px;
+ }
+
+ .me li{
+          margin-left: 47px;
+
+ }
+
+ .pic1 img{
+           position: absolute;
+    top: 643px;
+    left: 95px;
+    width: 373px;
+
+ }
+
+ .pic2 img{ 
+        position: absolute;
+    top: 643px;
+    left: 479px;
+    width: 373px;
+}
+
+.pic3 img{
+        position: absolute;
+    top: 644px;
+    width: 670px;
+    left: 866px;
+    height: 443px;
+  }
+
+.pic4 img{
+       position: absolute;
+    top: 1109px;
+    left: 95px;
+    width: 373px;
+    height: 360px;
+}
+
+.pic5 img {
+          position: absolute;
+    top: 1109px;
+    width: 374px;
+    left: 480px;
+    height: 361px;
+
+}
+
+.pic6 img{
+           position: absolute;
+    top: 1096px;
+    left: 855px;
+    height: 373px;
+}
+
+.pic7 img{
+           position: absolute;
+    top: 1112px;
+    left: 1224px;
+    height: 356px;
+    width: 314px;
+}
+
+.pic8 img{
+          position: absolute;
+    top: 1496px;
+    left: 95px;
+    width: 1108px;
+}
+
+.pic9 img{
+         position: absolute;
+    top: 1496px;
+    left: 1223px;
+    width: 315px;
+    height: 420px;
+}
+
+.men img{
+    width: 500px;
+    position: absolute;
+    top: 1976px;
+}
+
+.women img{
+  position: absolute;
+    left: 548px;
+    top: 1976px;
+    width: 500px;
+}
+
+.shadow img{
+        top: 1976px;
+    position: absolute;
+    left: 1082px;
+    width: 500px;
+}
+.text{
+
+   position: absolute;
+    top: 2053px;
+    left: 243px;
+  }
+
+  .view{
+
+       position: absolute;
+    left: 317px;
+    top: 2230px;
+}
+
+.text2{
+    position: absolute;
+    top: 2055px;
+    left: 781px;
+}
+
+.view2{
+        position: absolute;
+    left: 851px;
+    top: 2230px;        
+
+}
+
+.text{
+
+    position: absolute;
+    top: 2052px;
+    left: 266px;
+}
+
+.view{
+
+    position: absolute;
+    left: 337px;
+    top: 2228px;
+}
+
+.text1{
+       position: absolute;
+    top: 2053px;
+    left: 1323px;
+}
+
+.view1{
+        position: absolute;
+    top: 2230px;
+    left: 1392px;
+}
+
+button:hover{
+  background-color:#00c8c8;
+  color: white;
+
+}
+
+.gothum1{
+         padding-left: 842px;
+    background-color: #f8f8f8;
+    padding-bottom: 141px;
+    padding-top: 39px;
+    position: absolute;
+    top: 2440px;
+    width: 46%;
+}
+
+.low1{
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 2674px;
+    left: 501px;
+}
+
+.high1{
+
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: #00c8c8;
+    color: white;
+    position: absolute;
+    top: 2674px;
+    left: 816px;
+}
+
+
+.botnav2 li {
+             display: inline;
+             
+             
+}
+.botnav2 a{
+           color: #898989;
+}
+.botnav2 ul{
+            background-color: black;
+    text-align: center;
+    color: #898989;
+    padding-bottom: 32px;
+    margin-top: 2px
+  }
+.botnav2{
+           position: relative;
+    top: 2723px;
+}
+
+.logo p{
+        position: absolute;
+    top: 61px;
+    left: 118px;
+    font-size: 20px;
+}
+
+.me li:hover{
+               color: red;
+}

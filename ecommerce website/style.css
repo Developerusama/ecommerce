@@ -1,0 +1,291 @@
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+ .navbar li {
+  float: left;
+}
+ .navbar li a {
+  display: block;
+  color: #898989;
+  text-align: center;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+ .navbar li a:hover {
+  background-color: #111;
+  color: white;
+}
+
+.active {
+  background-color: #04AA6D;
+  position: absolute;
+  left: 1200px;
+}
+.r2{
+	 position: absolute;
+	 left: 1080px;
+}
+.r1{
+	 position: absolute;
+	 left: 1000px;
+}
+
+.slider img {
+    width: 100%;
+}
+.logo p{
+         position: absolute;
+    top: 61px;
+    left: 118px;
+    font-size: 20px;
+}
+
+.menu ul {
+  background-color: white;
+  list-style-type: none;
+  margin-left:134px;
+  padding: 10px;
+  overflow: hidden;
+  
+}
+
+ .h1{
+}
+.menu a:hover{
+               color: blue;
+}
+.menu a{
+         color: black;
+         text-decoration: none;
+}
+.menu a{
+         float: left;
+         margin: 10px;
+}
+.i1 img{
+       position: absolute;
+    margin: 65px;
+    width: 300px;
+    left: 100px;
+}
+
+
+.i2 img{
+       position: absolute;
+    left: 474px;
+    top: 929px;
+    height: 359px;
+  }
+
+.i3 img{ 
+
+    position: absolute;
+    left: 785px;
+    width: 600px;
+    top: 953px;
+}
+    
+  
+
+.i4 img{
+    position: absolute;
+    top: 1168px;
+    width: 603px;
+    margin: 160px;
+
+        
+}
+
+.i5 img{
+      
+    position: absolute;
+    left: 772px;
+    top: 1435px;
+    width: 313px;
+    height: 382px;
+}
+.i6 img{
+         
+    position: absolute;
+    left: 1086px;
+    top: 1449px;
+    width: 300px;
+    height: 369px;
+}
+
+.men img{
+    width: 500px;
+    position: absolute;
+    top: 1891px;
+}
+
+.women img{
+  position: absolute;
+    left: 548px;
+    top: 1892px;
+    width: 500px;
+}
+
+.shadow img{
+        top: 1894px;
+    position: absolute;
+    left: 1082px;
+    width: 500px;
+}
+   
+    
+.nav2 ul{
+  list-style-type: none;
+}
+
+
+.nav2 li{
+  float: left;
+  
+}
+ .nav2 a{
+  text-decoration: none;
+  color: black;
+  font-family: Arial;
+
+ }
+
+.nav2  a{
+           position: absolute;
+           top: 80px;
+           left: 100px;
+}
+
+#men1{
+     position: absolute;
+    left: 726px
+}
+
+#men2{
+    position: absolute;
+    left: 796px;
+}
+
+#men3{
+        position: absolute;
+    left: 883px;
+}
+
+#men4{
+        position: absolute;
+    left: 980px;
+}
+
+#men5{
+        position: absolute;
+    left: 1081px;
+}
+.searchbar{
+
+         position: absolute;
+    top: 79px;
+    left: 1234px;
+}
+
+.low{
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 2595px;
+    left: 501px;
+}
+
+.high{
+
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: #00c8c8;
+    color: white;
+    position: absolute;
+    top: 2595px;
+    left: 816px;
+}
+
+.botnav li {
+             display: inline;
+             
+             
+}
+.botnav a{
+           color: #898989;
+}
+.botnav ul{
+            background-color: black;
+    text-align: center;
+    color: #898989;
+    padding-bottom: 32px;
+    margin-top: 2px
+  }
+
+.button{
+    position: absolute;
+    top: 596px;
+    left: 1129px;
+         height: 50px;
+    width: 240px;
+}
+
+.text{
+
+    position: absolute;
+    top: 1970px;
+    left: 266px;
+}
+
+.view{
+
+    position: absolute;
+    left: 337px;
+    top: 2150px;
+}
+
+button:hover{
+  background-color:#00c8c8;
+
+}
+.text1{
+       position: absolute;
+    top: 1971px;
+    left: 800px
+}
+
+.view1{
+  position: absolute;
+    left: 862px;
+    top: 2148px;
+}
+
+
+.text2{
+    position: absolute;
+    top: 1978px;
+    left: 1329px;
+}
+
+.view2{
+         position: absolute;
+    left: 1396px;
+    top: 2148px         
+
+}
+
+.mov td{
+       padding-left: 60px;
+}

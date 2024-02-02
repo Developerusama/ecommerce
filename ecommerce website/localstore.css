@@ -1,0 +1,327 @@
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+ .navbar li {
+  float: left;
+}
+ .navbar li a {
+  display: block;
+  color: #898989;
+  text-align: center;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+ .navbar li a:hover {
+  background-color: #111;
+  color: white;
+}
+
+.active {
+  background-color: #04AA6D;
+  position: absolute;
+  left: 1200px;
+  color: white;
+}
+
+
+.r2{
+   position: absolute;
+   left: 1080px;
+}
+.r1{
+   position: absolute;
+   left: 1000px;
+}
+
+#men1{
+     position: absolute;
+    left: 726px
+}
+
+#men2{
+    position: absolute;
+    left: 796px;
+}
+
+#men3{
+        position: absolute;
+    left: 883px;
+}
+
+#men4{
+        position: absolute;
+    left: 980px;
+}
+
+#men5{
+        position: absolute;
+    left: 1081px;
+}
+
+.searchbar{
+
+         position: absolute;
+    top: 79px;
+    left: 1234px;
+}
+.nav2 ul{
+  list-style-type: none;
+}
+
+
+.nav2 li{
+  float: left;
+  
+}
+ .nav2 a{
+  text-decoration: none;
+  color: black;
+  font-family: Arial;
+
+ }
+
+.nav2  a{
+           position: absolute;
+           top: 80px;
+           left: 100px;
+}
+
+.logo p{
+         position: absolute;
+    top: 61px;
+    left: 118px;
+    font-size: 20px;
+}
+
+.slider img{
+    position: absolute;
+    top: 131px;
+    width: 99%;
+}
+
+.title{
+       
+    position: absolute;
+    top: 224px;
+    left: 633px;
+    font-size: x-large;
+    color: white;
+    font-family: arial;
+}
+
+.title1{
+       
+   
+    position: absolute;
+    top: 323px;
+    left: 652px;
+    color: white;
+    font-family: arial;
+    letter-spacing: 7px;
+}
+
+.heading{
+           position: absolute;
+    top: 555px;
+    left: 811px;
+}
+
+.dumy{
+           position: absolute;
+    top: 500px;
+    left: 200px;
+}
+
+.dumy1{
+
+  
+    position: absolute;
+    top: 549px;
+    left: 199px;
+}
+
+.view{
+    position: absolute;
+    top: 648px;
+    left: 200px;
+}
+
+.view button:hover{
+  background-color: #00c8c8;
+  color:white;
+}
+
+.dumy2{
+       position: absolute;
+    top: 498px;
+    left: 667px;
+}
+
+.dumy3{
+
+    position: absolute;
+    top: 548px;
+    left: 668px;
+}
+.view1{
+        
+    position: absolute;
+    top: 648px;
+    left: 674px;
+}
+
+.view1 button:hover{
+  background-color: #00c8c8;
+  color:white;
+}
+
+.dumy4{
+      
+    position: absolute;
+    top: 499px;
+    left: 1135px;
+}
+
+.dumy5{
+    
+      
+    position: absolute;
+    top: 547px;
+    left: 1135px;
+
+}
+
+.view2{
+
+    position: absolute;
+    top: 648px;
+    left: 1143px;
+}
+
+.view2 button:hover{
+  background-color: #00c8c8;
+  color: white;
+}
+
+.gothum1{
+         padding-left: 842px;
+    background-color: #f8f8f8;
+    padding-bottom: 141px;
+    padding-top: 39px;
+    position: absolute;
+    top: 1370px;
+    width: 46%;
+}
+
+.low1{
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 1597px;
+    left: 501px;
+}
+
+.high1{
+
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: #00c8c8;
+    color: white;
+    position: absolute;
+    top: 1597px;
+    left: 816px;
+}
+
+.botnav2 li {
+             display: inline;
+             
+             
+}
+.botnav2 a{
+           color: #898989;
+}
+.botnav2 ul{
+            background-color: black;
+    text-align: center;
+    color: #898989;
+    padding-bottom: 32px;
+    margin-top: 2px
+  }
+.botnav2{
+           position: relative;
+    top: 1664px;
+}
+
+.background{
+            background-color: #f8f8f8;
+            left: 1011px;
+    position: absolute;
+    top: 820px;
+    width: 570px;
+    height: 449px;
+}
+
+.texts{
+         position: absolute;
+    left: 32px;
+    top: 26px;
+}
+
+.icons ul{
+           list-style-type: none;
+}  
+
+.icons li {
+            padding: 5px;
+            
+}
+.icons{
+
+    position: absolute;
+    left: -46px;
+    top: 171px;
+
+}
+
+.routine ul{
+           list-style-type: none;
+}  
+
+.routine li {
+            padding: 5px;
+            
+}
+.routine{
+
+    position: absolute;
+    left: 1029px;
+    top: 1018px;
+
+}
+
+.socials{
+    position: absolute;
+    top: 1180px;
+    left: 990px;
+}
+
+.socials ul{
+             list-style-type: none;
+             display: flex;
+}
+
+.socials li{
+          padding: 6px;
+}
